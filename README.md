@@ -1,3 +1,3 @@
 # Technology hub
 
-Description
+Description of the app
