@@ -1,3 +1,3 @@
-# Technology hub
+# olowotrade
 
-Description of the app
+This app will allow you to trade whatever you have 
